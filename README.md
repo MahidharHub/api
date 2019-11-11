@@ -8,6 +8,18 @@
   1. Calculator API supports addition, substraction,multiplication,division
   2. Scientific Calculator API supports factorial,square and isPrime
 
+
+## Technologies used in application
+  1. Spring Boot
+  2. Spring REST
+  3. Spring Framework
+  3. Thymeleaf
+  4. JUnit & Mockito
+  5. Docker
+  6. Maven
+
+
+
 ## Building the application
 
 ###  Generating jar file
